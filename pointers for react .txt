@@ -1,0 +1,2 @@
+pointers for react 
+1- always define proptype while using prop
