@@ -46,7 +46,7 @@ function FeedbackForm() {
 
   return (
     <div className="container mt-5">
-      <h2 className="mb-4">Web Course Feedback Form</h2>
+      <h2 className="mb-4">Webdev Course Feedback Form</h2>
       <form onSubmit={handleSubmit}>
         <div className="mb-3">
           <label className="form-label">Name:</label>
